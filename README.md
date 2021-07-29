@@ -1,2 +1,2 @@
 # little-ad-removale-youtube
-remove little ad youtbe
+it is used to remove the little ad that is on the youtube main page
